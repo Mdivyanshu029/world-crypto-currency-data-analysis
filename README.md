@@ -29,7 +29,7 @@ https://1drv.ms/x/c/c6b9d2e1fc81ed86/IQBitZ5TmdO2TaFdp58_6cWLAREN5sEa22YiC5bBbuq
 ---
 
 ## 📂 Project Structure
-
+```
 ├── crypto_data.xlsx # Raw dataset
 ├── Book1.xlsx # Final dashboard & analysis
 ├── new.ipynb # Data preprocessing
@@ -38,7 +38,7 @@ https://1drv.ms/x/c/c6b9d2e1fc81ed86/IQBitZ5TmdO2TaFdp58_6cWLAREN5sEa22YiC5bBbuq
 ├── Web_Scraping.zip # Scraping scripts
 ├── Dashboard.png # Dashboard preview
 └── README.md # Documentation
-
+```
 
 ---
 
